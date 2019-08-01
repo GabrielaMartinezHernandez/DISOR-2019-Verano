@@ -1,0 +1,23 @@
+﻿Compilación iniciada a las 01/08/2019 05:08:29 a. m..
+     1>Proyecto "C:\Users\nga_a\Documents\Visual Studio 2012\Projects\DisorVerano\DisorVerano\DisorVerano.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DisorVerano.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt DisorVerano.cpp
+         DisorVerano.cpp
+     1>c:\users\nga_a\documents\visual studio 2012\projects\disorverano\disorverano\disorverano.cpp(92): warning C4018: '<' : no coinciden signed/unsigned
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\nga_a\Documents\Visual Studio 2012\Projects\DisorVerano\Debug\DisorVerano.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\nga_a\Documents\Visual Studio 2012\Projects\DisorVerano\Debug\DisorVerano.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\nga_a\Documents\Visual Studio 2012\Projects\DisorVerano\Debug\DisorVerano.lib" /MACHINE:X86 Debug\Capicua.obj
+         Debug\Conversiones.obj
+         Debug\DisorVerano.obj
+         Debug\fibonacci.obj
+         Debug\NumeroFeliz.obj
+         Debug\NumerosSuerte.obj
+         Debug\OperacionesSimples.obj
+         Debug\Padovan.obj
+         Debug\stdafx.obj
+         Debug\Ulam.obj
+         DisorVerano.vcxproj -> C:\Users\nga_a\Documents\Visual Studio 2012\Projects\DisorVerano\Debug\DisorVerano.exe
+     1>Compilación del proyecto terminada "C:\Users\nga_a\Documents\Visual Studio 2012\Projects\DisorVerano\DisorVerano\DisorVerano.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.50
